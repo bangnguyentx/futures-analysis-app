@@ -1,0 +1,15 @@
+{
+  "name": "futures-analysis-client",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "socket.io-client": "4.7.1",
+    "axios": "1.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
